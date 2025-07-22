@@ -1,21 +1,33 @@
 # 💫 About Me
 
-👋 Hi there! I'm a **Computer Science graduate** and a passionate developer currently working as a  
+👋 Hey! I'm **Satyam Kumar**, a **Computer Science graduate** and passionate developer, currently working as a  
 **Software Intern at [GiniLytics IT Solutions](https://ginilytics.com)**.
 
-🔧 I specialize in **.NET development**, full-stack technologies, and problem-solving using clean, efficient code.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+🚀;React+%2B+.NET+Explorer+🧑‍💻;Loves+to+build+%26+break+things+🛠️;Problem+Solver+%7C+Debugger+%7C+Doer)](https://git.io/typing-svg)
 
-💼 I’m currently working on enterprise-grade applications using:
-- **C#**, **.NET Core**, **Entity Framework**
-- **SQL Server**, **REST APIs**, **Agile methodology**
+---
 
-🚀 Projects I’ve built:
-- 🧑‍🏫 [StudyNotion](#) – EdTech Platform
-- 🗞️ [News Website](#) – API-integrated news delivery
-- 🧑‍🎓 [Student Management System](#) – C++ & MySQL
+🔧 **Tech Explorer:**  
+Currently diving deep into **.NET development**, with solid experience in **React** and modern full-stack technologies. I enjoy solving real-world problems with clean and scalable code.
 
-💡 Solved **200+ DSA problems** on **LeetCode**, **GFG**, and **HackerRank**  
-📚 Constantly learning and improving my craft!
+💼 **What I’m working with:**  
+- ⚙️ **C#**, **.NET Core**, **Entity Framework**  
+- 🧠 **SQL Server**, **REST APIs**, **Agile Practices**  
+- 💻 Tools: **Git**, **Postman**, **Swagger**, **Visual Studio**
+
+🚀 **Projects I've Built:**  
+- 🧑‍🏫 **[StudyNotion](#)** – EdTech Platform (React, Node.js, Razorpay)  
+- 🗞️ **[News Website](#)** – News app using external REST APIs  
+- 🧑‍🎓 **[Student Management System](#)** – Console-based C++ + MySQL project
+
+📊 **Competitive Side:**  
+- 🧩 Solved **200+ DSA problems** on **LeetCode**, **GFG**, and **HackerRank**  
+- 🥇 5⭐ in **C++**, **SQL**, and **Problem Solving** on HackerRank  
+- 🏆 269th rank in **GFG Weekly Contest 117**
+
+📚 **Lifelong Learner:**  
+Whether it’s a new framework or a DSA pattern, I love learning, experimenting, and building better every day.
+
 
 ---
 
@@ -81,3 +93,20 @@
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=SatyamKr2002)
 
 ---
+
+### 🚀 Let's Build Something Amazing Together!
+
+Whether you're a fellow developer, recruiter, or tech enthusiast —  
+**I'm always open to exciting collaborations and new challenges!** 🤝
+
+### 🌐 Connect with Me
+
+[![Portfolio](https://img.shields.io/badge/🌍%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](#) 
+[![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-kumar-2a5552245) 
+[![Instagram](https://img.shields.io/badge/📸%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/satyam_002/)  
+
+---
+
+📬 *"The best way to predict the future is to invent it."* - Alan Kay  
+💬 *The journey just began - see you in the pull requests!*  
+
